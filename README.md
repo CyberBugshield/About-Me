@@ -13,7 +13,10 @@ An AI-powered Bash framework for SOC analysts, featuring malware scanning, anoma
 Hands-on labs simulating SOC tasks using Splunk, Linux CLI, log correlation, audit monitoring, and incident response scenarios. Includes documentation of mock investigations and threat mitigation strategies.
 
 🧠 Terracotta Bank Simulation
-Performed network traffic interception, identified authentication bypasses, Performed SQL & XSS, simulate attack by removing funds from a random bank user account, and applied encryption techniques. Used Wireshark to detect data leaks and simulate a secure banking environment. 📸 [View Bypass Proof Screenshot](https://github.com/CyberBugshield/CyberBugShield/blob/main/terracotta-bypass-proof.png)
+Performed network traffic interception and exploited authentication bypass vulnerabilities.  
+Simulated a successful attack by removing funds from a random bank user account.  
+Applied encryption techniques and used Wireshark to detect data leaks.  
+📸 [View Bypass Proof Screenshot](https://github.com/CyberBugshield/About-Me/blob/main/Screenshot%202024-09-21%20172829.png)
 
 🌐 OWASP Juice Shop – Web App Pen Testing
 Used Burp Suite and Kali Linux to identify and exploit XSS and SQL injection flaws. Practiced web app defense techniques and implemented patches to harden the system.
