@@ -45,6 +45,7 @@ Built a Python-based scraping tool to collect, filter, and validate business lea
 - Security+ Certified
 - SOC Analyst Bootcamp – Splunk, Audit Services, Event Correlation
 - Cisco Intro to Cybersecurity
+- British Airways Data Science Internship
 - BRC Cyber Range Training – Scheduled Aug 27, 2025
 - OPSWAT: Critical Infrastucture Protection
   
